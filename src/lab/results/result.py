@@ -72,3 +72,8 @@ ax.legend()
 fig.tight_layout()
 plt.grid(True)
 plt.savefig('./error_ranges.png')
+
+# save the error ranges to a JSON file
+
+with open('./error_ranges.json', 'w') as file:
+    json.dump(error_ranges, file, indent=4)
