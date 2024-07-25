@@ -95,3 +95,8 @@
 這些結果表明，混合模型成功地結合了線性和非線性模型的優點，能夠更準確地捕捉和預測時間序列數據中的複雜模式。這一方法不僅為天氣預測提供了一個有效的解決方案，也為其他時間序列預測問題提供了新的思路。
 
 未來的研究可以進一步優化該混合模型的結構，並探索其在更多應用場景中的潛力，從而促進時間序列預測技術的發展和應用。
+
+## 參考文獻
+
+1. Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural computation, 9(8), 1735-1780.
+2. Ailing Zeng, Muxi Chen, Lei Zhang, Qiang Xu (2022). Are Transformers Effective for Time Series Forecasting?
