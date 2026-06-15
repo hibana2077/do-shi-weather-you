@@ -1,0 +1,8 @@
+torch==2.8.0
+timm
+transformers
+pandas
+datasets
+scikit-learn
+numpy
+matplotlib
